@@ -1,0 +1,16 @@
+C:\Users\peter\OneDrive\Documents\GitHub\sess5local\bin\Debug\net5.0\sess5local.exe
+C:\Users\peter\OneDrive\Documents\GitHub\sess5local\bin\Debug\net5.0\sess5local.deps.json
+C:\Users\peter\OneDrive\Documents\GitHub\sess5local\bin\Debug\net5.0\sess5local.runtimeconfig.json
+C:\Users\peter\OneDrive\Documents\GitHub\sess5local\bin\Debug\net5.0\sess5local.runtimeconfig.dev.json
+C:\Users\peter\OneDrive\Documents\GitHub\sess5local\bin\Debug\net5.0\sess5local.dll
+C:\Users\peter\OneDrive\Documents\GitHub\sess5local\bin\Debug\net5.0\ref\sess5local.dll
+C:\Users\peter\OneDrive\Documents\GitHub\sess5local\bin\Debug\net5.0\sess5local.pdb
+C:\Users\peter\OneDrive\Documents\GitHub\sess5local\obj\Debug\net5.0\sess5local.csprojAssemblyReference.cache
+C:\Users\peter\OneDrive\Documents\GitHub\sess5local\obj\Debug\net5.0\sess5local.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peter\OneDrive\Documents\GitHub\sess5local\obj\Debug\net5.0\sess5local.AssemblyInfoInputs.cache
+C:\Users\peter\OneDrive\Documents\GitHub\sess5local\obj\Debug\net5.0\sess5local.AssemblyInfo.cs
+C:\Users\peter\OneDrive\Documents\GitHub\sess5local\obj\Debug\net5.0\sess5local.csproj.CoreCompileInputs.cache
+C:\Users\peter\OneDrive\Documents\GitHub\sess5local\obj\Debug\net5.0\sess5local.dll
+C:\Users\peter\OneDrive\Documents\GitHub\sess5local\obj\Debug\net5.0\ref\sess5local.dll
+C:\Users\peter\OneDrive\Documents\GitHub\sess5local\obj\Debug\net5.0\sess5local.pdb
+C:\Users\peter\OneDrive\Documents\GitHub\sess5local\obj\Debug\net5.0\sess5local.genruntimeconfig.cache
